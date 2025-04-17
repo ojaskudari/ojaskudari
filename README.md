@@ -12,7 +12,7 @@
  
 
  
- 🌱 I’m currently learning **FPGA,EMBEDDED C,ARM,VLSI**
+ 🌱 I’m currently learning **FPGA DESIGN,ASIC flows,Verification,Physical Design**
 
  
 I'm intrested in: 🤖  Robotics, MicrcontrollersMicroProcessors, FPGA
